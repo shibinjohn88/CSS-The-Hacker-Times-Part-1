@@ -10,11 +10,13 @@
 
 header > h1 {
     text-align: center;
+    font-family: "Abril Fatface";
     
 }
 
 body {
     background-color: #eee;
+    font-family: "Source Sans Pro";
 }
 
 nav li{
@@ -46,11 +48,29 @@ main p {
 
 .more-articles  section {
     display: inline-block;
-    width: 40%;
-    margin-left: 5px;
-    margin-right: 5px;
+    width: 45%;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .more-articles p {
     text-align: justify;
 }
+
+.more-articles {
+    border-top: 2px solid #eee;
+}
+
+main > h5 {
+    color: #dd3232;
+}
+
+main > h2 {
+    font-family: "Roboto Slab";
+}
+
+section > h4 {
+    font-family: "Roboto Slab";
+}
+
+

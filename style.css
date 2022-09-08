@@ -77,6 +77,10 @@ footer {
     text-align: center;
 }
 
-
+nav {
+    position: sticky;
+    top: 0px;
+    background-color: rgb(243, 240, 236);
+}
 
 
